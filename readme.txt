@@ -1,0 +1,1 @@
+To summarise our group's code - a connection is established with the turtlebot3 and a remote PC that feeds the code to the robot via ROS; and then the inside the code - the robot looks for a BLUE SQUARE to go near by and then using obstacle avoidance to go past the object and then stop soon after.
